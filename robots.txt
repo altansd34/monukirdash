@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://monukirdash.pages.dev/sitemap.xml
